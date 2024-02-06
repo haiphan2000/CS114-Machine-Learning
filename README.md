@@ -1,1 +1,1 @@
-# CS114-Machine-learning
+# CS114 - Machine Learning
